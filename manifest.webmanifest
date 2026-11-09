@@ -1,0 +1,17 @@
+{
+  "name": "Venüs Ada Sitesi",
+  "short_name": "Venüs Ada",
+  "description": "Aidat borcu, ödemeler, duyurular ve arıza bildirimi",
+  "lang": "tr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f3f4f0",
+  "theme_color": "#0d6655",
+  "icons": [
+    { "src": "ikon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "ikon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "ikon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
